@@ -8,11 +8,11 @@ int main()
     scanf("%c",&ch);
     if (ch>=97 && ch<=122)
     {
-        printf("lowercase");
+        printf("is lowercase");
     }
     else
     {
-        printf("not lowercase");
+        printf("is not lowercase");
     }
     
    return 0;
